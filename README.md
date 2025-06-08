@@ -30,6 +30,6 @@ I created PocketPals out of a genuine love for coding and a desire to explore ne
 
 ## 🚀 Live Demo
 
-👉 [Check out PocketPals live!](https://dat1n.github.io/PocketPals/)
+👉 [Check out PocketPals live!]([https://dat1n.github.io/PocketPals/](https://main--haris-mini-pokemon-website.netlify.app/))
 
 
