@@ -2,6 +2,11 @@
 
 **PocketPals** is a dynamic mini Pokémon-themed website built with **HTML**, **CSS**, and **JavaScript**. This project demonstrates my front-end development skills and my enthusiasm for combining creative design with interactive functionality.
 
+## 🚀 Live Demo
+
+👉 [Check out PocketPals live!](https://main--haris-mini-pokemon-website.netlify.app/)
+
+
 ---
 
 ## ✨ Features
@@ -25,11 +30,3 @@ I created PocketPals out of a genuine love for coding and a desire to explore ne
 - **HTML5**
 - **CSS3**
 - **Vanilla JavaScript**
-
----
-
-## 🚀 Live Demo
-
-👉 [Check out PocketPals live!]([https://dat1n.github.io/PocketPals/](https://main--haris-mini-pokemon-website.netlify.app/))
-
-
